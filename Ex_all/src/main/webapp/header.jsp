@@ -5,11 +5,12 @@
 <head>
 <meta charset="UTF-8">
 <title>정보처리 산업 기사</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-	<h1></h1>
+	<h1>정보처리 산업기사 모든 예제 ver_1.3</h1>
 	<nav>
 		<ul>
 			<li><a href="">조회1번</a></li>
